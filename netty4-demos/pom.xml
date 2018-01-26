@@ -52,5 +52,10 @@
 			<artifactId>jackson-databind</artifactId>
 			<version>${version.jackson.core}</version>
 		</dependency>
+		<dependency>
+			<groupId>org.mongodb</groupId>
+			<artifactId>mongodb-driver</artifactId>
+			<version>3.6.1</version>
+		</dependency>
 	</dependencies>
 </project>
